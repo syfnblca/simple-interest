@@ -17,43 +17,32 @@ Where:
 
 ---
 
-## ⚙️ Usage
-
-To run the script, open your terminal and execute:
-
-```bash
-bash simple-interest.sh
-
-Example
-Enter Principal: 1000
-Enter Rate of Interest: 5
-Enter Time (in years): 2
-Simple Interest = 100.00
-
 💡 Example
 Enter Principal: 1000
 Enter Rate of Interest: 5
 Enter Time (in years): 2
 Simple Interest = 100.00
 
-🧾 File Description
-File Name	Description
-simple-interest.sh	Bash script to calculate simple interest
-LICENSE	Apache 2.0 License file
-README.md	Project description and usage guide
-CODE_OF_CONDUCT.md	Community behavior guidelines
-CONTRIBUTING.md	Guidelines for contributors
+🧾 Project Files
+| File Name            | Description                              |
+| -------------------- | ---------------------------------------- |
+| `simple-interest.sh` | Bash script to calculate simple interest |
+| `LICENSE`            | Apache 2.0 License file                  |
+| `README.md`          | Documentation for the project            |
+| `CODE_OF_CONDUCT.md` | Guidelines for community behavior        |
+| `CONTRIBUTING.md`    | Instructions for contributors            |
+
 👥 Contributing
 
 Contributions are welcome!
 Please read the CONTRIBUTING.md
- file before submitting pull requests.
+ file for contribution guidelines before submitting pull requests.
 
-📜 License
+ 📜 License
 
 This project is licensed under the terms of the Apache License 2.0
 .
 
 📩 Contact
 
-If you have questions or suggestions about this project, feel free to contact the maintainer via GitHub Issues or email.
+If you have any questions, suggestions, or feedback regarding this project, feel free to contact the maintainer via GitHub Issues or email.
