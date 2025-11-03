@@ -18,6 +18,7 @@ Where:
 ---
 
 💡 Example
+
 Enter Principal: 1000
 
 Enter Rate of Interest: 5
